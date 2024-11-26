@@ -192,14 +192,12 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-23 220058.png>)
-![alt text](<anna park.png>)
-![alt text](<london ortho.png>)
-![alt text](<nalam hospital.png>)
-![alt text](ymca.png)
-
-
-
+![alt text](<Screenshot 2024-11-26 081204.png>)
+![alt text](<Screenshot 2024-11-26 093633.png>)
+![alt text](<Screenshot 2024-11-26 093709.png>)
+![alt text](<Screenshot 2024-11-26 093650.png>)
+![alt text](<Screenshot 2024-11-26 093727.png>)
+![alt text](<Screenshot 2024-11-26 093740.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
